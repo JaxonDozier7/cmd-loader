@@ -1,0 +1,8 @@
+clear
+echo "CMD loader"
+cmd /c color 07
+echo "Color changed to CMD-like"
+echo "Loading CMD..."
+CMD
+echo "Thanks for using CMD!"
+echo "Script will now exit"
